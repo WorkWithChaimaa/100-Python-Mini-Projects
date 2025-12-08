@@ -1,5 +1,0 @@
-# Source and Attribution
-
-These 100 Python exercises were derived from the "100 Python Exercises with Solutions" book/material provided by **Lkhibra Academy** (Morocco).
-
-This repository is a personal solution set intended for educational and portfolio purposes, following the curriculum provided by the academy. All credit for the original structure, objectives, and problem statements belongs to Lkhibra Academy.
