@@ -1,4 +1,4 @@
-Exercise 1: Declare and Print Variables
+**Exercise 1: Declare and Print Variables**
 
 ## Objective
 Understand how to declare and print variables in Python.
