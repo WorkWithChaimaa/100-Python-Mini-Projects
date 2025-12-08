@@ -24,7 +24,7 @@ The table below tracks the completion of each project in the repository:
 | **004** | `004_check_variable_type` | Check Variable Type with `type()` | ✅ Complete |
 | **005** | `005_concatenating_strings` | Combine Strings with F-strings/`+` | ✅ Complete |
 | **006** | `006_string_int_conversion` | String-to-Integer Conversion | ✅ Complete |
-| **007** | `007_float_int_conversion` | Float-to-Integer Conversion | 🚧 Pending |
+| **007** | `007_float_int_conversion` | Float-to-Integer Conversion | ✅ Complete |
 | **008** | `008_boolean_to_integer` | Boolean to Integer Conversion | ✅ Complete |
 | **009** | `009_list_string_conversion` | List-to-String Conversion (`join`/`split`) | ✅ Complete |
 | **010** | `010_dict_to_lists` | Dictionary Key/Value Extraction | ✅ Complete |
