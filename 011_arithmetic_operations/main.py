@@ -26,3 +26,4 @@ print(f"Division: {division_result}")
 # Modulus: num1 % num2
 modulus_result = num1 % num2
 print(f"Modulus: {modulus_result}")
+
