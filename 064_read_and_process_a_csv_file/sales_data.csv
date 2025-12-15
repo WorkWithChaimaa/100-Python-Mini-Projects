@@ -1,0 +1,60 @@
+ order_value_EUR ,country, cost ,date,category,customer_name,sales_manager,sales_rep,device_type,order_id
+"17,524.02",Sweden,14122.61,2/12/2020,Books,Goldner-Dibbert,Maxie Marrow,Madelon Bront,Mobile,70-0511466
+"116,563.40",Finland,92807.78,9/26/2019,Games,Hilll-Vandervort,Hube Corey,Wat Bowkley,Mobile,28-6585323
+"296,465.56",Portugal,257480.34,7/11/2019,Clothing,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,PC,58-7703341
+"74,532.02",Portugal,59752.32,4/2/2020,Beauty,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,PC,14-6700183
+"178,763.42",Spain,146621.76,12/22/2019,Games,Johns and Sons,Emalia Dinse,Bertha Walbrook,Tablet,15-8765160
+"84,900.24",Spain,73701.9,7/14/2020,Clothing,"Farrell, Swaniawski and Crist",Emalia Dinse,Perri Aldersley,PC,60-6998932
+"71,620.08",Portugal,62245.01,2/5/2019,Books,Schoen-Keeling,Celine Tumasian,Smitty Culverhouse,PC,69-6259390
+"156,585.22",UK,126599.15,8/30/2020,Accessories,"Hermiston, Simonis and Wisoky",Jessamine Apark,Winny Agnolo,PC,64-5761908
+"78,461.13",Portugal,63537.82,5/10/2020,Appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,Mobile,91-4126746
+"64,827.80",France,56043.63,1/20/2019,Appliances,Gislason-Stanton,Othello Bowes,Maighdiln Upcraft,PC,62-3312495
+"142,664.34",Sweden,120808.16,5/4/2019,Appliances,"Swaniawski, Runolfsson and Green",Maxie Marrow,Madelon Bront,PC,85-6625096
+"66,673.19",UK,52811.83,2/23/2019,Smartphones,Gislason-Stanton,Jessamine Apark,Winny Agnolo,PC,25-6368157
+"136,915.61",Portugal,114790.05,1/4/2020,Outdoors,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,Tablet,15-3943365
+"164,971.70",UK,132686.74,7/20/2019,Accessories,Wisoky Inc,Jessamine Apark,Winny Agnolo,PC,32-3534634
+"149,486.27",UK,118662.2,8/6/2019,Beauty,Johns and Sons,Jessamine Apark,Genevra Charrisson,PC,02-3972649
+"54,078.92",Sweden,46102.28,11/8/2020,Books,Tillman and Sons,Maxie Marrow,Anita Woakes,PC,08-7576451
+"107,499.78",France,91364.06,2/26/2019,Smartphones,"Rowe, Hermiston and Kessler",Othello Bowes,Amelina Piscopiello,PC,68-3583935
+"29,493.79",UK,24285.19,11/22/2019,Games,Tillman and Sons,Jessamine Apark,Jay Morefield,PC,53-7769693
+"147,656.52",Portugal,124193.9,6/5/2019,Smartphones,Goldner-Dibbert,Celine Tumasian,Corene Shirer,PC,85-4732103
+"156,839.31",Portugal,134709.28,5/11/2020,Smartphones,Stamm Inc,Celine Tumasian,Corene Shirer,PC,27-9800293
+"81,412.10",Spain,64747.04,11/6/2019,Electronics,Johns and Sons,Emalia Dinse,Bertha Walbrook,PC,67-3929836
+"56,717.53",Sweden,45101.78,3/10/2019,Clothing,Johns and Sons,Maxie Marrow,Alyosha Meah,PC,13-0526029
+"17,028.19",Netherlands,14102.75,2/7/2020,Clothing,Johns and Sons,Denice Amberg,Nero Harbisher,PC,38-5910704
+"236,462.30",Finland,205674.91,12/23/2020,Clothing,Hessel-Stiedemann,Hube Corey,Wat Bowkley,PC,41-6407014
+"172,989.17",Portugal,142975.55,6/10/2020,Beauty,Romaguera-Dietrich,Celine Tumasian,Hortense Gerring,PC,22-6745595
+"48,179.57",Sweden,41405.52,8/14/2020,Books,Franecki-White,Maxie Marrow,Anita Woakes,PC,96-3022721
+"121,318.55",Portugal,102890.26,3/10/2020,Electronics,"Jacobson, Marvin and Brown",Celine Tumasian,Aurelie Wren,Tablet,48-0713329
+"93,153.98",Belgium,79702.55,4/3/2020,Appliances,Armstrong-Little,Lambert Norheny,Collin Mackness,Mobile,50-0942872
+"98,289.32",Bulgaria,84116,2/15/2019,Appliances,"Murray, Reichel and Nolan",Charil Alpe,Shermy McGready,PC,78-2307905
+"108,920.56",Luxembourg,94270.74,7/8/2019,Books,"Swaniawski, Runolfsson and Green",Ilsa Kob,Jocelyn Laurentino,PC,63-0019978
+"37,273.84",Portugal,31559.76,1/20/2020,Games,Considine-Fisher,Celine Tumasian,Aurelie Wren,Tablet,26-9948924
+"221,745.05",Spain,190767.27,6/25/2019,Appliances,Kirlin and Sons,Emalia Dinse,Bertha Walbrook,Mobile,72-7630507
+"54,566.99",Netherlands,43757.27,3/23/2020,Smartphones,Friesen-Rath,Denice Amberg,Nero Harbisher,PC,36-3410564
+"111,639.29",Portugal,97204.33,10/28/2019,Smartphones,"Keeling, Monahan and Pollich",Celine Tumasian,Hortense Gerring,PC,82-4653018
+"74,273.54",Sweden,61981.27,3/28/2020,Beauty,"Swaniawski, Runolfsson and Green",Maxie Marrow,Caro Morfield,PC,29-1001593
+"95,566.43",Portugal,80342.7,5/7/2019,Clothing,Hessel-Stiedemann,Celine Tumasian,Hortense Gerring,PC,59-5568557
+"28,783.05",France,24776.45,3/29/2019,Clothing,Dibbert Inc,Othello Bowes,Maighdiln Upcraft,PC,12-1249283
+"124,414.74",UK,98959.48,6/13/2019,Outdoors,Labadie and Sons,Jessamine Apark,Winny Agnolo,PC,96-0180648
+"153,029.72",Portugal,125117.1,1/28/2020,Games,Friesen-Rath,Celine Tumasian,Corene Shirer,PC,51-9029547
+"174,919.64",Sweden,146845.04,11/3/2020,Clothing,Wiza and Sons,Maxie Marrow,Caro Morfield,Mobile,84-2614836
+"55,804.05",France,46401.07,3/5/2019,Electronics,"Rowe, Hermiston and Kessler",Othello Bowes,Crysta Halls,PC,57-6995715
+"89,160.66",France,75367.51,11/18/2019,Beauty,Wiza and Sons,Othello Bowes,Crysta Halls,PC,27-4115444
+"27,987.13",UK,24001.76,3/26/2019,Games,Labadie and Sons,Jessamine Apark,Genevra Charrisson,PC,34-3302340
+"18,326.41",France,15067.97,2/3/2019,Games,"Schmitt, Purdy and Johnson",Othello Bowes,Ora Grennan,PC,25-6638623
+"62,708.60",Netherlands,51414.78,8/29/2019,Smartphones,"Hamill, Kulas and Roob",Denice Amberg,Nero Harbisher,PC,11-5260310
+"124,668.36",UK,103998.35,11/5/2020,Games,Hessel-Stiedemann,Jessamine Apark,Winny Agnolo,PC,68-5024232
+"109,390.57",Italy,87414,11/12/2020,Other,Schoen-Keeling,Piggy Roscrigg,Joshua Prevost,Mobile,90-2530115
+"103,279.79",Portugal,82334.65,3/12/2020,Appliances,Johns and Sons,Celine Tumasian,Aurelie Wren,PC,23-8271333
+"173,478.65",France,139650.31,1/29/2019,Books,Johns and Sons,Othello Bowes,Avrit Chanders,PC,99-7422044
+"57,927.54",Sweden,48914.01,1/18/2019,Games,"Fisher, Morar and Skiles",Maxie Marrow,Alyosha Meah,Mobile,67-6692861
+"84,767.77",Portugal,68950.1,1/18/2020,Electronics,McGlynn-Bergstrom,Celine Tumasian,Smitty Culverhouse,Mobile,20-3441688
+"138,175.53",France,116744.51,11/3/2020,Other,"Spencer, Rogahn and Muller",Othello Bowes,Ora Grennan,PC,80-8230605
+"143,107.89",Portugal,121241,11/2/2020,Electronics,Kirlin and Sons,Celine Tumasian,Hortense Gerring,Mobile,18-0704377
+"54,446.50",Sweden,44989.14,3/9/2020,Appliances,Wunsch LLC,Maxie Marrow,Alyosha Meah,Tablet,47-5524071
+"136,324.90",Portugal,110436.8,10/29/2019,Electronics,Walter LLC,Celine Tumasian,Hortense Gerring,Tablet,76-2572347
+"43,066.58",Portugal,36154.39,2/8/2019,Games,"Hamill, Kulas and Roob",Celine Tumasian,Hortense Gerring,Mobile,74-4429133
+"224,626.25",France,189988.88,7/21/2020,Electronics,"Christiansen, Donnelly and Bechtelar",Othello Bowes,Ora Grennan,PC,69-1300467
+"115,689.22",France,98127.6,7/15/2019,Clothing,Altenwerth-Konopelski,Othello Bowes,Avrit Chanders,PC,99-8643527
+"78,293.94",Bulgaria,66236.67,10/13/2019,Appliances,"Rowe, Hermiston and Kessler",Charil Alpe,Bernadine Fullagar,Mobile,14-1143584
