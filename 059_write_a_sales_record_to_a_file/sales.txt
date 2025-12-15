@@ -1,0 +1,1 @@
+Customer: Chaimaa, Item: Laptop, Price: $1200.00
