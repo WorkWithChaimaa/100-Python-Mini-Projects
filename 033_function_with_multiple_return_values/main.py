@@ -6,3 +6,4 @@ def calculate(x, y):
 total, product = calculate(5, 3)
 
 print(f"Sum: {total}, Product: {product}")
+
