@@ -1,0 +1,12 @@
+1. Transaction: Sale, $12.50
+2. Transaction: Refund, $5.00
+3. Transaction: Purchase, $88.99
+4. Transaction: Sale, $3.25
+5. Transaction: Service Fee, $1.00
+6. Transaction: Transfer Out, $150.00
+7. Transaction: Transfer In, $75.00
+8. Transaction: Sale, $20.00
+9. Transaction: Refund, $10.00
+10. Transaction: Purchase, $45.00
+11. Transaction: Adjustment, $0.50
+12. Transaction: Payment, $30.00
