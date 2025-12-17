@@ -1,4 +1,4 @@
-# Exercise 66: Student Grade Management System
+# Project 66: Student Grade Management System
 
 students = {}
 def add_students():
