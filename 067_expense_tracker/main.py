@@ -1,4 +1,4 @@
-# Exercise 67: Expense Tracker
+# Project 67: Expense Tracker
 
 expenses = {}
 def add_expense():
