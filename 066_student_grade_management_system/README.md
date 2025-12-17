@@ -13,8 +13,8 @@ Project 66: Student Grade Management System
 2. Update Grade
 3. Get Grade
 4. Display All
-5. Exit
-Enter choice: 1
-Enter student name: Alice
-Enter grade: A
+5. Exit<br>
+Enter choice: 1<br>
+Enter student name: Alice<br>
+Enter grade: A<br>
 Student added successfully.
