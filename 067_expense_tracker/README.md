@@ -10,8 +10,8 @@ Project 67: Expense Tracker
 ## Expected Output:
 1. Add Expense
 2. View Expenses by Category
-3. Save & Exit
-Enter choice: 1
-Enter category (Food, Transport, etc.): Food
-Enter amount: 12.5
+3. Save & Exit<br>
+Enter choice: 1<br>
+Enter category (Food, Transport, etc.): Food<br>
+Enter amount: 12.5<br>
 Expense added.
